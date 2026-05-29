@@ -46,13 +46,13 @@ The analysis includes:
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview](Dashboard 1.png)
 
 ---
 
 ## Tableau Dashboard
 
-[View Interactive Tableau Dashboard Here](PASTE_TABLEAU_PUBLIC_LINK_HERE)
+[View Interactive Tableau Dashboard Here](https://public.tableau.com/views/RetailSalesAnalysisDashboardTableau/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
