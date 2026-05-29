@@ -81,6 +81,6 @@ superstore-sales-analysis/
 │
 ├── superstore_sales_analysis.ipynb
 ├── README.md
-├── dashboard_screenshot.png
+├── Dashboard 1.png
 ├── requirements.txt
 └── dataset.csv
