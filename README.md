@@ -46,7 +46,7 @@ The analysis includes:
 
 ## Dashboard Preview
 
-![Dashboard Preview](Dashboard 1.png)
+![Dashboard Preview](Dashboard%201.png)
 
 ---
 
